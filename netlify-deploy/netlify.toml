@@ -1,0 +1,28 @@
+# Netlify — CBT Sekolah Sukma (aplikasi statis React + Vite)
+#
+# Cara pakai:
+#  1) Hubungkan repo Git ke Netlify → Netlify otomatis menjalankan `npm run build`
+#     dan menerbitkan folder `dist`.
+#  2) Atau unggah folder `netlify-deploy/` lewat https://app.netlify.com/drop.
+#
+# Pengaturan Database (opsional): isi Environment Variables di Netlify
+#   VITE_API_URL = https://script.google.com/macros/s/XXXX/exec
+#   VITE_API_KEY = kunci-api-anda
+# supaya semua perangkat langsung terhubung tanpa mengisi menu Pengaturan.
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"

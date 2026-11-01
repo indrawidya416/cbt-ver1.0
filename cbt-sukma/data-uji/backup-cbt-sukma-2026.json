@@ -1,0 +1,1645 @@
+{
+  "students": [
+    {
+      "id": "std_mi_01",
+      "nis": "2530001",
+      "name": "Ahmad Fauzan Ramadhan",
+      "school": "MI Islamiyah",
+      "className": "5A",
+      "gender": "L",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_mi_02",
+      "nis": "2530002",
+      "name": "Aisyah Putri Ramadhani",
+      "school": "MI Islamiyah",
+      "className": "5A",
+      "gender": "P",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_mi_03",
+      "nis": "2530003",
+      "name": "Bagas Aditya Pratama",
+      "school": "MI Islamiyah",
+      "className": "5A",
+      "gender": "L",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_mi_04",
+      "nis": "2530004",
+      "name": "Citra Ayu Lestari",
+      "school": "MI Islamiyah",
+      "className": "5A",
+      "gender": "P",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_mi_05",
+      "nis": "2530005",
+      "name": "Dimas Ardiansyah",
+      "school": "MI Islamiyah",
+      "className": "5A",
+      "gender": "L",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_mi_06",
+      "nis": "2530006",
+      "name": "Elsa Nur Aini",
+      "school": "MI Islamiyah",
+      "className": "5A",
+      "gender": "P",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_mi_07",
+      "nis": "2530007",
+      "name": "Fahri Abdillah",
+      "school": "MI Islamiyah",
+      "className": "5A",
+      "gender": "L",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_mi_08",
+      "nis": "2530008",
+      "name": "Gita Puspita Sari",
+      "school": "MI Islamiyah",
+      "className": "5A",
+      "gender": "P",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_mi_09",
+      "nis": "2530009",
+      "name": "Hafizh Maulana Yusuf",
+      "school": "MI Islamiyah",
+      "className": "5A",
+      "gender": "L",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_mi_10",
+      "nis": "2530010",
+      "name": "Indah Nur Fadilah",
+      "school": "MI Islamiyah",
+      "className": "5A",
+      "gender": "P",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_mi_11",
+      "nis": "2530011",
+      "name": "Joko Santoso Putra",
+      "school": "MI Islamiyah",
+      "className": "6A",
+      "gender": "L",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_mi_12",
+      "nis": "2530012",
+      "name": "Khalisa Zahra Azzahra",
+      "school": "MI Islamiyah",
+      "className": "6A",
+      "gender": "P",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_mi_13",
+      "nis": "2530013",
+      "name": "Lukman Hakim",
+      "school": "MI Islamiyah",
+      "className": "6A",
+      "gender": "L",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_mi_14",
+      "nis": "2530014",
+      "name": "Maulida Rahmawati",
+      "school": "MI Islamiyah",
+      "className": "6A",
+      "gender": "P",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_mi_15",
+      "nis": "2530015",
+      "name": "Naufal Rizky Hidayat",
+      "school": "MI Islamiyah",
+      "className": "6A",
+      "gender": "L",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_mi_16",
+      "nis": "2530016",
+      "name": "Nabila Syafira Putri",
+      "school": "MI Islamiyah",
+      "className": "6A",
+      "gender": "P",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_mi_17",
+      "nis": "2530017",
+      "name": "Rafi Athallah Wijaya",
+      "school": "MI Islamiyah",
+      "className": "6A",
+      "gender": "L",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_mi_18",
+      "nis": "2530018",
+      "name": "Salma Kamila Husna",
+      "school": "MI Islamiyah",
+      "className": "6A",
+      "gender": "P",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_mi_19",
+      "nis": "2530019",
+      "name": "Zaki Mubarak",
+      "school": "MI Islamiyah",
+      "className": "6A",
+      "gender": "L",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_mi_20",
+      "nis": "2530020",
+      "name": "Zahra Aulia Rahma",
+      "school": "MI Islamiyah",
+      "className": "6A",
+      "gender": "P",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_smp_01",
+      "nis": "2531001",
+      "name": "Aditya Bagus Saputra",
+      "school": "SMP Al Hidayah",
+      "className": "7A",
+      "gender": "L",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_smp_02",
+      "nis": "2531002",
+      "name": "Aulia Rahmadani",
+      "school": "SMP Al Hidayah",
+      "className": "7A",
+      "gender": "P",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_smp_03",
+      "nis": "2531003",
+      "name": "Bayu Prasetyo Aji",
+      "school": "SMP Al Hidayah",
+      "className": "7A",
+      "gender": "L",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_smp_04",
+      "nis": "2531004",
+      "name": "Cahya Ningrum Sari",
+      "school": "SMP Al Hidayah",
+      "className": "7A",
+      "gender": "P",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_smp_05",
+      "nis": "2531005",
+      "name": "Dava Airlangga Putra",
+      "school": "SMP Al Hidayah",
+      "className": "7A",
+      "gender": "L",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_smp_06",
+      "nis": "2531006",
+      "name": "Dewi Amalia Rahmawati",
+      "school": "SMP Al Hidayah",
+      "className": "7A",
+      "gender": "P",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_smp_07",
+      "nis": "2531007",
+      "name": "Eka Nur Cahyono",
+      "school": "SMP Al Hidayah",
+      "className": "7A",
+      "gender": "L",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_smp_08",
+      "nis": "2531008",
+      "name": "Farah Nabila Zahra",
+      "school": "SMP Al Hidayah",
+      "className": "7A",
+      "gender": "P",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_smp_09",
+      "nis": "2531009",
+      "name": "Galih Ramadhan Saputra",
+      "school": "SMP Al Hidayah",
+      "className": "7A",
+      "gender": "L",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_smp_10",
+      "nis": "2531010",
+      "name": "Hanifah Salma Aulia",
+      "school": "SMP Al Hidayah",
+      "className": "7A",
+      "gender": "P",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_smp_11",
+      "nis": "2531011",
+      "name": "Ilham Maulana Akbar",
+      "school": "SMP Al Hidayah",
+      "className": "8A",
+      "gender": "L",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_smp_12",
+      "nis": "2531012",
+      "name": "Kirana Ayu Wardani",
+      "school": "SMP Al Hidayah",
+      "className": "8A",
+      "gender": "P",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_smp_13",
+      "nis": "2531013",
+      "name": "Muhammad Rizky Pratama",
+      "school": "SMP Al Hidayah",
+      "className": "8A",
+      "gender": "L",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_smp_14",
+      "nis": "2531014",
+      "name": "Nadia Salsabila Putri",
+      "school": "SMP Al Hidayah",
+      "className": "8A",
+      "gender": "P",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_smp_15",
+      "nis": "2531015",
+      "name": "Oktavia Dwi Anggraini",
+      "school": "SMP Al Hidayah",
+      "className": "8A",
+      "gender": "P",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_smp_16",
+      "nis": "2531016",
+      "name": "Rizal Fahmi Ardiansyah",
+      "school": "SMP Al Hidayah",
+      "className": "8A",
+      "gender": "L",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_smp_17",
+      "nis": "2531017",
+      "name": "Salsabila Putri Ramadhani",
+      "school": "SMP Al Hidayah",
+      "className": "8A",
+      "gender": "P",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_smp_18",
+      "nis": "2531018",
+      "name": "Tegar Bagas Prakoso",
+      "school": "SMP Al Hidayah",
+      "className": "8A",
+      "gender": "L",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_smp_19",
+      "nis": "2531019",
+      "name": "Vina Ayu Safitri",
+      "school": "SMP Al Hidayah",
+      "className": "8A",
+      "gender": "P",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "std_smp_20",
+      "nis": "2531020",
+      "name": "Yusuf Abdurrahman Hakim",
+      "school": "SMP Al Hidayah",
+      "className": "8A",
+      "gender": "L",
+      "password": "12345",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    }
+  ],
+  "packets": [
+    {
+      "id": "pkt_mi_lit",
+      "name": "Literasi MI — Kelas 5 & 6",
+      "category": "Literasi",
+      "subject": "Bahasa Indonesia",
+      "school": "MI Islamiyah",
+      "level": "Kelas 5-6",
+      "description": "Membaca teks, ide pokok, fakta/opini",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "pkt_mi_num",
+      "name": "Numerasi MI — Kelas 5 & 6",
+      "category": "Numerasi",
+      "subject": "Matematika",
+      "school": "MI Islamiyah",
+      "level": "Kelas 5-6",
+      "description": "Operasi hitung, pecahan, keliling, soal cerita",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "pkt_mi_pai",
+      "name": "PAI MI — Kelas 5 & 6",
+      "category": "Mapel",
+      "subject": "Pendidikan Agama Islam",
+      "school": "MI Islamiyah",
+      "level": "Kelas 5-6",
+      "description": "Rukun Islam, rukun wudu, surah pendek, akhlak",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "pkt_mi_bar",
+      "name": "Bahasa Arab MI — Kelas 5 & 6",
+      "category": "Mapel",
+      "subject": "Bahasa Arab",
+      "school": "MI Islamiyah",
+      "level": "Kelas 5-6",
+      "description": "Mufradat (kosakata) dan arti kata",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "pkt_smp_lit",
+      "name": "Literasi SMP — Kelas 7 & 8",
+      "category": "Literasi",
+      "subject": "Bahasa Indonesia",
+      "school": "SMP Al Hidayah",
+      "level": "Kelas 7-8",
+      "description": "Teks eksposisi, fakta & opini, simpulan",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "pkt_smp_num",
+      "name": "Numerasi SMP — Kelas 7 & 8",
+      "category": "Numerasi",
+      "subject": "Matematika",
+      "school": "SMP Al Hidayah",
+      "level": "Kelas 7-8",
+      "description": "Persamaan linear, persentase, perbandingan",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "pkt_smp_pai",
+      "name": "PAI SMP — Kelas 7 & 8",
+      "category": "Mapel",
+      "subject": "Pendidikan Agama Islam",
+      "school": "SMP Al Hidayah",
+      "level": "Kelas 7-8",
+      "description": "Iman kepada malaikat, rukun salat, puasa",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "pkt_smp_bar",
+      "name": "Bahasa Arab SMP — Kelas 7 & 8",
+      "category": "Mapel",
+      "subject": "Bahasa Arab",
+      "school": "SMP Al Hidayah",
+      "level": "Kelas 7-8",
+      "description": "Istilah di sekolah dan mufradat",
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_mi_lit_1",
+      "type": "multiple_choice",
+      "text": "Apa ide pokok paragraf tersebut?",
+      "stimulus": "Kebun Sekolah\nSetiap hari Jumat, siswa MI Islamiyah bekerja bakti di kebun sekolah. Mereka menanam sawi, bayam, dan cabai. Pak Rahmat, guru kelas, mengajari cara menyiram dan memberi pupuk. Hasil panen dijual di kantin dengan harga murah. Uang penjualannya dipakai untuk membeli buku bacaan di perpustakaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kegiatan kerja bakti siswa di kebun sekolah"
+        },
+        {
+          "id": "B",
+          "text": "Cara menanam cabai yang benar"
+        },
+        {
+          "id": "C",
+          "text": "Harga sawi di kantin sekolah"
+        },
+        {
+          "id": "D",
+          "text": "Perpustakaan sekolah yang baru"
+        }
+      ],
+      "answerKey": [
+        "A"
+      ],
+      "score": 1,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_mi_lit"
+    },
+    {
+      "id": "q_mi_lit_2",
+      "type": "multiple_choice",
+      "text": "Kata \"panen\" pada teks di atas berarti ...",
+      "stimulus": "Kebun Sekolah\nSetiap hari Jumat, siswa MI Islamiyah bekerja bakti di kebun sekolah. Mereka menanam sawi, bayam, dan cabai. Pak Rahmat, guru kelas, mengajari cara menyiram dan memberi pupuk. Hasil panen dijual di kantin dengan harga murah. Uang penjualannya dipakai untuk membeli buku bacaan di perpustakaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "menanam kembali"
+        },
+        {
+          "id": "B",
+          "text": "memetik hasil tanaman"
+        },
+        {
+          "id": "C",
+          "text": "membeli bibit"
+        },
+        {
+          "id": "D",
+          "text": "menyiram tanaman"
+        }
+      ],
+      "answerKey": [
+        "B"
+      ],
+      "score": 1,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_mi_lit"
+    },
+    {
+      "id": "q_mi_lit_3",
+      "type": "true_false",
+      "text": "Hasil penjualan sayur di kebun sekolah dipakai untuk membeli buku bacaan.",
+      "stimulus": "Kebun Sekolah\nSetiap hari Jumat, siswa MI Islamiyah bekerja bakti di kebun sekolah. Mereka menanam sawi, bayam, dan cabai. Pak Rahmat, guru kelas, mengajari cara menyiram dan memberi pupuk. Hasil panen dijual di kantin dengan harga murah. Uang penjualannya dipakai untuk membeli buku bacaan di perpustakaan.",
+      "options": [
+        {
+          "id": "true",
+          "text": "Benar"
+        },
+        {
+          "id": "false",
+          "text": "Salah"
+        }
+      ],
+      "answerKey": [
+        "true"
+      ],
+      "score": 1,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_mi_lit"
+    },
+    {
+      "id": "q_mi_lit_4",
+      "type": "complex_mc",
+      "text": "Pilih SEMUA tanaman yang disebut dalam teks!",
+      "stimulus": "Kebun Sekolah\nSetiap hari Jumat, siswa MI Islamiyah bekerja bakti di kebun sekolah. Mereka menanam sawi, bayam, dan cabai. Pak Rahmat, guru kelas, mengajari cara menyiram dan memberi pupuk. Hasil panen dijual di kantin dengan harga murah. Uang penjualannya dipakai untuk membeli buku bacaan di perpustakaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sawi"
+        },
+        {
+          "id": "B",
+          "text": "Bayam"
+        },
+        {
+          "id": "C",
+          "text": "Jagung"
+        },
+        {
+          "id": "D",
+          "text": "Cabai"
+        },
+        {
+          "id": "E",
+          "text": "Padi"
+        }
+      ],
+      "answerKey": [
+        "A",
+        "B",
+        "D"
+      ],
+      "score": 2,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_mi_lit"
+    },
+    {
+      "id": "q_mi_lit_5",
+      "type": "essay",
+      "text": "Tuliskan dua kalimat kesimpulan tentang manfaat kebun sekolah berdasarkan teks di atas.",
+      "stimulus": "Kebun Sekolah\nSetiap hari Jumat, siswa MI Islamiyah bekerja bakti di kebun sekolah. Mereka menanam sawi, bayam, dan cabai. Pak Rahmat, guru kelas, mengajari cara menyiram dan memberi pupuk. Hasil panen dijual di kantin dengan harga murah. Uang penjualannya dipakai untuk membeli buku bacaan di perpustakaan.",
+      "options": [],
+      "answerKey": [],
+      "score": 3,
+      "explanation": "Contoh jawaban: Kebun sekolah melatih siswa bekerja sama, dan hasil panennya dapat menambah koleksi buku perpustakaan.",
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_mi_lit"
+    },
+    {
+      "id": "q_mi_num_1",
+      "type": "multiple_choice",
+      "text": "Ibu membeli 3 buku tulis. Harga satu buku Rp2.500. Berapa total yang harus dibayar?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rp5.500"
+        },
+        {
+          "id": "B",
+          "text": "Rp6.000"
+        },
+        {
+          "id": "C",
+          "text": "Rp7.500"
+        },
+        {
+          "id": "D",
+          "text": "Rp8.000"
+        }
+      ],
+      "answerKey": [
+        "C"
+      ],
+      "score": 1,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_mi_num"
+    },
+    {
+      "id": "q_mi_num_2",
+      "type": "multiple_choice",
+      "text": "Sebuah persegi panjang memiliki panjang 8 cm dan lebar 5 cm. Kelilingnya adalah ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "13 cm"
+        },
+        {
+          "id": "B",
+          "text": "26 cm"
+        },
+        {
+          "id": "C",
+          "text": "40 cm"
+        },
+        {
+          "id": "D",
+          "text": "80 cm"
+        }
+      ],
+      "answerKey": [
+        "B"
+      ],
+      "score": 1,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_mi_num"
+    },
+    {
+      "id": "q_mi_num_3",
+      "type": "true_false",
+      "text": "Pecahan 0,5 sama nilainya dengan 1/2.",
+      "options": [
+        {
+          "id": "true",
+          "text": "Benar"
+        },
+        {
+          "id": "false",
+          "text": "Salah"
+        }
+      ],
+      "answerKey": [
+        "true"
+      ],
+      "score": 1,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_mi_num"
+    },
+    {
+      "id": "q_mi_num_4",
+      "type": "multiple_choice",
+      "text": "Hasil dari 2/5 + 1/5 adalah ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "3/10"
+        },
+        {
+          "id": "B",
+          "text": "3/5"
+        },
+        {
+          "id": "C",
+          "text": "2/25"
+        },
+        {
+          "id": "D",
+          "text": "1/5"
+        }
+      ],
+      "answerKey": [
+        "B"
+      ],
+      "score": 1,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_mi_num"
+    },
+    {
+      "id": "q_mi_num_5",
+      "type": "essay",
+      "text": "Andi membawa uang Rp20.000. Ia membeli 2 pensil seharga Rp3.000 per pensil dan 1 buku Rp7.000. Berapa uang kembalian Andi? Tuliskan cara menghitungnya.",
+      "stimulus": [],
+      "options": [],
+      "answerKey": [],
+      "score": 3,
+      "explanation": "Total belanja = (2 × 3.000) + 7.000 = Rp13.000. Kembalian = 20.000 − 13.000 = Rp7.000.",
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_mi_num"
+    },
+    {
+      "id": "q_mi_pai_1",
+      "type": "multiple_choice",
+      "text": "Rukun Islam ada ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "empat"
+        },
+        {
+          "id": "B",
+          "text": "lima"
+        },
+        {
+          "id": "C",
+          "text": "enam"
+        },
+        {
+          "id": "D",
+          "text": "tujuh"
+        }
+      ],
+      "answerKey": [
+        "B"
+      ],
+      "score": 1,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_mi_pai"
+    },
+    {
+      "id": "q_mi_pai_2",
+      "type": "multiple_choice",
+      "text": "Surah Al-Kausar terdiri atas ... ayat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "dua"
+        },
+        {
+          "id": "B",
+          "text": "tiga"
+        },
+        {
+          "id": "C",
+          "text": "empat"
+        },
+        {
+          "id": "D",
+          "text": "lima"
+        }
+      ],
+      "answerKey": [
+        "B"
+      ],
+      "score": 1,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_mi_pai"
+    },
+    {
+      "id": "q_mi_pai_3",
+      "type": "true_false",
+      "text": "Salat Subuh dikerjakan sebanyak tiga rakaat.",
+      "options": [
+        {
+          "id": "true",
+          "text": "Benar"
+        },
+        {
+          "id": "false",
+          "text": "Salah"
+        }
+      ],
+      "answerKey": [
+        "false"
+      ],
+      "score": 1,
+      "explanation": "Salat Subuh dua rakaat.",
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_mi_pai"
+    },
+    {
+      "id": "q_mi_pai_4",
+      "type": "complex_mc",
+      "text": "Pilih SEMUA yang termasuk rukun wudu!",
+      "options": [
+        {
+          "id": "A",
+          "text": "Membasuh wajah"
+        },
+        {
+          "id": "B",
+          "text": "Membasuh kedua tangan sampai siku"
+        },
+        {
+          "id": "C",
+          "text": "Mengusap kepala"
+        },
+        {
+          "id": "D",
+          "text": "Memakai parfum"
+        },
+        {
+          "id": "E",
+          "text": "Membaca doa makan"
+        }
+      ],
+      "answerKey": [
+        "A",
+        "B",
+        "C"
+      ],
+      "score": 2,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_mi_pai"
+    },
+    {
+      "id": "q_mi_pai_5",
+      "type": "essay",
+      "text": "Sebutkan tiga contoh perilaku jujur yang dapat dilakukan seorang siswa di sekolah.",
+      "stimulus": [],
+      "options": [],
+      "answerKey": [],
+      "score": 3,
+      "explanation": "Contoh: tidak menyontek saat ujian, mengembalikan barang yang ditemukan, berkata benar kepada guru.",
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_mi_pai"
+    },
+    {
+      "id": "q_mi_bar_1",
+      "type": "multiple_choice",
+      "text": "Arti kata كِتَابٌ adalah ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "buku"
+        },
+        {
+          "id": "B",
+          "text": "pensil"
+        },
+        {
+          "id": "C",
+          "text": "meja"
+        },
+        {
+          "id": "D",
+          "text": "pintu"
+        }
+      ],
+      "answerKey": [
+        "A"
+      ],
+      "score": 1,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_mi_bar"
+    },
+    {
+      "id": "q_mi_bar_2",
+      "type": "multiple_choice",
+      "text": "Arti kata مَدْرَسَةٌ adalah ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "masjid"
+        },
+        {
+          "id": "B",
+          "text": "sekolah"
+        },
+        {
+          "id": "C",
+          "text": "rumah"
+        },
+        {
+          "id": "D",
+          "text": "pasar"
+        }
+      ],
+      "answerKey": [
+        "B"
+      ],
+      "score": 1,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_mi_bar"
+    },
+    {
+      "id": "q_mi_bar_3",
+      "type": "true_false",
+      "text": "Kata قَلَمٌ berarti meja.",
+      "options": [
+        {
+          "id": "true",
+          "text": "Benar"
+        },
+        {
+          "id": "false",
+          "text": "Salah"
+        }
+      ],
+      "answerKey": [
+        "false"
+      ],
+      "score": 1,
+      "explanation": "قَلَمٌ berarti pena/pensil.",
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_mi_bar"
+    },
+    {
+      "id": "q_mi_bar_4",
+      "type": "complex_mc",
+      "text": "Pilih SEMUA kata yang menunjukkan anggota keluarga!",
+      "options": [
+        {
+          "id": "A",
+          "text": "أَبٌ"
+        },
+        {
+          "id": "B",
+          "text": "أُمٌّ"
+        },
+        {
+          "id": "C",
+          "text": "كِتَابٌ"
+        },
+        {
+          "id": "D",
+          "text": "أَخٌ"
+        },
+        {
+          "id": "E",
+          "text": "مَدْرَسَةٌ"
+        }
+      ],
+      "answerKey": [
+        "A",
+        "B",
+        "D"
+      ],
+      "score": 2,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_mi_bar"
+    },
+    {
+      "id": "q_mi_bar_5",
+      "type": "essay",
+      "text": "Tuliskan arti kata بَيْتٌ dan مَسْجِدٌ dalam bahasa Indonesia.",
+      "stimulus": [],
+      "options": [],
+      "answerKey": [],
+      "score": 3,
+      "explanation": "بَيْتٌ = rumah; مَسْجِدٌ = masjid.",
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_mi_bar"
+    },
+    {
+      "id": "q_smp_lit_1",
+      "type": "multiple_choice",
+      "text": "Ide pokok teks di atas adalah ...",
+      "stimulus": "Sampah Plastik di Sekitar Kita\nSampah plastik membutuhkan waktu ratusan tahun untuk terurai. Kantong plastik yang dibuang sembarangan sering menyumbat saluran air dan menyebabkan banjir ketika hujan. Beberapa sekolah mulai membiasakan siswa membawa tempat minum sendiri. Menurut saya, kebiasaan kecil ini jauh lebih bermanfaat daripada sekadar berdebat tentang bahaya plastik.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lamanya waktu penguraian sampah plastik dan dampaknya bagi lingkungan"
+        },
+        {
+          "id": "B",
+          "text": "Cara membuat kantong plastik di pabrik"
+        },
+        {
+          "id": "C",
+          "text": "Penyebab banjir di kota besar setiap tahun"
+        },
+        {
+          "id": "D",
+          "text": "Manfaat berdebat tentang sampah plastik"
+        }
+      ],
+      "answerKey": [
+        "A"
+      ],
+      "score": 1,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_smp_lit"
+    },
+    {
+      "id": "q_smp_lit_2",
+      "type": "multiple_choice",
+      "text": "Kalimat \"Menurut saya, kebiasaan kecil ini jauh lebih bermanfaat ...\" merupakan ...",
+      "stimulus": "Sampah Plastik di Sekitar Kita\nSampah plastik membutuhkan waktu ratusan tahun untuk terurai. Kantong plastik yang dibuang sembarangan sering menyumbat saluran air dan menyebabkan banjir ketika hujan. Beberapa sekolah mulai membiasakan siswa membawa tempat minum sendiri. Menurut saya, kebiasaan kecil ini jauh lebih bermanfaat daripada sekadar berdebat tentang bahaya plastik.",
+      "options": [
+        {
+          "id": "A",
+          "text": "fakta"
+        },
+        {
+          "id": "B",
+          "text": "opini penulis"
+        },
+        {
+          "id": "C",
+          "text": "kalimat tanya"
+        },
+        {
+          "id": "D",
+          "text": "data statistik"
+        }
+      ],
+      "answerKey": [
+        "B"
+      ],
+      "score": 1,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_smp_lit"
+    },
+    {
+      "id": "q_smp_lit_3",
+      "type": "true_false",
+      "text": "Menurut teks, kantong plastik dapat menyumbat saluran air dan menyebabkan banjir.",
+      "stimulus": "Sampah Plastik di Sekitar Kita\nSampah plastik membutuhkan waktu ratusan tahun untuk terurai. Kantong plastik yang dibuang sembarangan sering menyumbat saluran air dan menyebabkan banjir ketika hujan. Beberapa sekolah mulai membiasakan siswa membawa tempat minum sendiri. Menurut saya, kebiasaan kecil ini jauh lebih bermanfaat daripada sekadar berdebat tentang bahaya plastik.",
+      "options": [
+        {
+          "id": "true",
+          "text": "Benar"
+        },
+        {
+          "id": "false",
+          "text": "Salah"
+        }
+      ],
+      "answerKey": [
+        "true"
+      ],
+      "score": 1,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_smp_lit"
+    },
+    {
+      "id": "q_smp_lit_4",
+      "type": "complex_mc",
+      "text": "Pilih SEMUA pernyataan yang merupakan FAKTA berdasarkan teks!",
+      "stimulus": "Sampah Plastik di Sekitar Kita\nSampah plastik membutuhkan waktu ratusan tahun untuk terurai. Kantong plastik yang dibuang sembarangan sering menyumbat saluran air dan menyebabkan banjir ketika hujan. Beberapa sekolah mulai membiasakan siswa membawa tempat minum sendiri. Menurut saya, kebiasaan kecil ini jauh lebih bermanfaat daripada sekadar berdebat tentang bahaya plastik.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sampah plastik membutuhkan waktu ratusan tahun untuk terurai"
+        },
+        {
+          "id": "B",
+          "text": "Sampah plastik menyumbat saluran air"
+        },
+        {
+          "id": "C",
+          "text": "Membawa tempat minum sendiri adalah kebiasaan terbaik di dunia"
+        },
+        {
+          "id": "D",
+          "text": "Beberapa sekolah membiasakan siswa membawa tempat minum sendiri"
+        },
+        {
+          "id": "E",
+          "text": "Berdebat lebih bermanfaat daripada bertindak"
+        }
+      ],
+      "answerKey": [
+        "A",
+        "B",
+        "D"
+      ],
+      "score": 2,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_smp_lit"
+    },
+    {
+      "id": "q_smp_lit_5",
+      "type": "essay",
+      "text": "Tuliskan simpulan teks tersebut dan satu saran tindakan yang bisa dilakukan siswa.",
+      "stimulus": "Sampah Plastik di Sekitar Kita\nSampah plastik membutuhkan waktu ratusan tahun untuk terurai. Kantong plastik yang dibuang sembarangan sering menyumbat saluran air dan menyebabkan banjir ketika hujan. Beberapa sekolah mulai membiasakan siswa membawa tempat minum sendiri. Menurut saya, kebiasaan kecil ini jauh lebih bermanfaat daripada sekadar berdebat tentang bahaya plastik.",
+      "options": [],
+      "answerKey": [],
+      "score": 3,
+      "explanation": "Simpulan: sampah plastik berbahaya dan lama terurai; saran: membawa tempat minum sendiri dan memilah sampah.",
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_smp_lit"
+    },
+    {
+      "id": "q_smp_num_1",
+      "type": "multiple_choice",
+      "text": "Jika 3x + 5 = 20, maka nilai x adalah ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        },
+        {
+          "id": "D",
+          "text": "15"
+        }
+      ],
+      "answerKey": [
+        "B"
+      ],
+      "score": 1,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_smp_num"
+    },
+    {
+      "id": "q_smp_num_2",
+      "type": "multiple_choice",
+      "text": "Sebuah baju berharga Rp150.000 mendapat diskon 20%. Harga setelah diskon adalah ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rp110.000"
+        },
+        {
+          "id": "B",
+          "text": "Rp120.000"
+        },
+        {
+          "id": "C",
+          "text": "Rp130.000"
+        },
+        {
+          "id": "D",
+          "text": "Rp140.000"
+        }
+      ],
+      "answerKey": [
+        "B"
+      ],
+      "score": 1,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_smp_num"
+    },
+    {
+      "id": "q_smp_num_3",
+      "type": "true_false",
+      "text": "Hasil dari (−5) × (−4) adalah 20.",
+      "options": [
+        {
+          "id": "true",
+          "text": "Benar"
+        },
+        {
+          "id": "false",
+          "text": "Salah"
+        }
+      ],
+      "answerKey": [
+        "true"
+      ],
+      "score": 1,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_smp_num"
+    },
+    {
+      "id": "q_smp_num_4",
+      "type": "multiple_choice",
+      "text": "Perbandingan uang Ani dan Budi adalah 3 : 5. Jika uang Budi Rp75.000, uang Ani adalah ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rp35.000"
+        },
+        {
+          "id": "B",
+          "text": "Rp45.000"
+        },
+        {
+          "id": "C",
+          "text": "Rp50.000"
+        },
+        {
+          "id": "D",
+          "text": "Rp60.000"
+        }
+      ],
+      "answerKey": [
+        "B"
+      ],
+      "score": 1,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_smp_num"
+    },
+    {
+      "id": "q_smp_num_5",
+      "type": "essay",
+      "text": "Rina menabung Rp50.000 setiap minggu. Setelah 12 minggu, ia mengambil Rp150.000 untuk membeli buku. Berapa sisa tabungan Rina? Tuliskan langkahnya.",
+      "stimulus": [],
+      "options": [],
+      "answerKey": [],
+      "score": 3,
+      "explanation": "Tabungan = 12 × 50.000 = 600.000. Sisa = 600.000 − 150.000 = Rp450.000.",
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_smp_num"
+    },
+    {
+      "id": "q_smp_pai_1",
+      "type": "multiple_choice",
+      "text": "Jumlah malaikat yang wajib diketahui seorang muslim adalah ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "sembilan"
+        },
+        {
+          "id": "B",
+          "text": "sepuluh"
+        },
+        {
+          "id": "C",
+          "text": "sebelas"
+        },
+        {
+          "id": "D",
+          "text": "dua belas"
+        }
+      ],
+      "answerKey": [
+        "B"
+      ],
+      "score": 1,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_smp_pai"
+    },
+    {
+      "id": "q_smp_pai_2",
+      "type": "multiple_choice",
+      "text": "Malaikat yang bertugas mencatat amal baik dan buruk manusia adalah ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jibril"
+        },
+        {
+          "id": "B",
+          "text": "Mikail"
+        },
+        {
+          "id": "C",
+          "text": "Raqib dan Atid"
+        },
+        {
+          "id": "D",
+          "text": "Izrail"
+        }
+      ],
+      "answerKey": [
+        "C"
+      ],
+      "score": 1,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_smp_pai"
+    },
+    {
+      "id": "q_smp_pai_3",
+      "type": "true_false",
+      "text": "Hukum melaksanakan puasa Ramadan adalah sunah.",
+      "options": [
+        {
+          "id": "true",
+          "text": "Benar"
+        },
+        {
+          "id": "false",
+          "text": "Salah"
+        }
+      ],
+      "answerKey": [
+        "false"
+      ],
+      "score": 1,
+      "explanation": "Puasa Ramadan hukumnya wajib bagi muslim yang mampu.",
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_smp_pai"
+    },
+    {
+      "id": "q_smp_pai_4",
+      "type": "complex_mc",
+      "text": "Pilih SEMUA yang termasuk rukun salat!",
+      "options": [
+        {
+          "id": "A",
+          "text": "Niat"
+        },
+        {
+          "id": "B",
+          "text": "Takbiratul ihram"
+        },
+        {
+          "id": "C",
+          "text": "Membaca Al-Fatihah"
+        },
+        {
+          "id": "D",
+          "text": "Bersalaman setelah salat"
+        },
+        {
+          "id": "E",
+          "text": "Membaca surah pendek"
+        }
+      ],
+      "answerKey": [
+        "A",
+        "B",
+        "C"
+      ],
+      "score": 2,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_smp_pai"
+    },
+    {
+      "id": "q_smp_pai_5",
+      "type": "essay",
+      "text": "Sebutkan tiga hikmah salat berjamaah bagi seorang pelajar.",
+      "stimulus": [],
+      "options": [],
+      "answerKey": [],
+      "score": 3,
+      "explanation": "Contoh: melatih kedisiplinan, mempererat persaudaraan, menumbuhkan kebersamaan, mendapat pahala 27 derajat.",
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_smp_pai"
+    },
+    {
+      "id": "q_smp_bar_1",
+      "type": "multiple_choice",
+      "text": "Arti kata مُعَلِّمٌ adalah ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "murid"
+        },
+        {
+          "id": "B",
+          "text": "guru"
+        },
+        {
+          "id": "C",
+          "text": "petani"
+        },
+        {
+          "id": "D",
+          "text": "pedagang"
+        }
+      ],
+      "answerKey": [
+        "B"
+      ],
+      "score": 1,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_smp_bar"
+    },
+    {
+      "id": "q_smp_bar_2",
+      "type": "multiple_choice",
+      "text": "Arti kata مَكْتَبَةٌ adalah ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "perpustakaan"
+        },
+        {
+          "id": "B",
+          "text": "kantin"
+        },
+        {
+          "id": "C",
+          "text": "lapangan"
+        },
+        {
+          "id": "D",
+          "text": "ruang guru"
+        }
+      ],
+      "answerKey": [
+        "A"
+      ],
+      "score": 1,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_smp_bar"
+    },
+    {
+      "id": "q_smp_bar_3",
+      "type": "true_false",
+      "text": "Kata أُسْتَاذٌ berarti murid.",
+      "options": [
+        {
+          "id": "true",
+          "text": "Benar"
+        },
+        {
+          "id": "false",
+          "text": "Salah"
+        }
+      ],
+      "answerKey": [
+        "false"
+      ],
+      "score": 1,
+      "explanation": "أُسْتَاذٌ berarti guru/profesor.",
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_smp_bar"
+    },
+    {
+      "id": "q_smp_bar_4",
+      "type": "complex_mc",
+      "text": "Pilih SEMUA kata yang menunjukkan tempat!",
+      "options": [
+        {
+          "id": "A",
+          "text": "مَسْجِدٌ"
+        },
+        {
+          "id": "B",
+          "text": "مَكْتَبَةٌ"
+        },
+        {
+          "id": "C",
+          "text": "كِتَابٌ"
+        },
+        {
+          "id": "D",
+          "text": "أَنْتُمْ"
+        },
+        {
+          "id": "E",
+          "text": "مَدْرَسَةٌ"
+        }
+      ],
+      "answerKey": [
+        "A",
+        "B",
+        "E"
+      ],
+      "score": 2,
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_smp_bar"
+    },
+    {
+      "id": "q_smp_bar_5",
+      "type": "essay",
+      "text": "Tuliskan tiga kata benda yang ada di sekolah dalam bahasa Arab beserta artinya.",
+      "stimulus": [],
+      "options": [],
+      "answerKey": [],
+      "score": 3,
+      "explanation": "Contoh: كِتَابٌ (buku), قَلَمٌ (pena), سَبُّورَةٌ (papan tulis/madrasah).",
+      "createdAt": "2026-11-01T08:14:28.214Z",
+      "packetId": "pkt_smp_bar"
+    }
+  ],
+  "exams": [
+    {
+      "id": "exm_mi_lit",
+      "title": "Asesmen Literasi — MI Islamiyah",
+      "packetId": "pkt_mi_lit",
+      "school": "MI Islamiyah",
+      "classes": [
+        "5A",
+        "6A"
+      ],
+      "date": "2026-11-01",
+      "startTime": "07:30",
+      "duration": 60,
+      "token": "MILIT5",
+      "isActive": true,
+      "shuffle": false,
+      "kkm": 70,
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "exm_mi_num",
+      "title": "Asesmen Numerasi — MI Islamiyah",
+      "packetId": "pkt_mi_num",
+      "school": "MI Islamiyah",
+      "classes": [
+        "5A",
+        "6A"
+      ],
+      "date": "2026-11-01",
+      "startTime": "09:00",
+      "duration": 60,
+      "token": "MINUM5",
+      "isActive": true,
+      "shuffle": false,
+      "kkm": 70,
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "exm_mi_pai",
+      "title": "Ulangan PAI — MI Islamiyah",
+      "packetId": "pkt_mi_pai",
+      "school": "MI Islamiyah",
+      "classes": [
+        "5A",
+        "6A"
+      ],
+      "date": "2026-11-01",
+      "startTime": "10:30",
+      "duration": 45,
+      "token": "MIPAI5",
+      "isActive": true,
+      "shuffle": false,
+      "kkm": 70,
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "exm_mi_bar",
+      "title": "Ulangan Bahasa Arab — MI Islamiyah",
+      "packetId": "pkt_mi_bar",
+      "school": "MI Islamiyah",
+      "classes": [
+        "5A",
+        "6A"
+      ],
+      "date": "2026-11-01",
+      "startTime": "12:30",
+      "duration": 45,
+      "token": "MIBAR5",
+      "isActive": true,
+      "shuffle": false,
+      "kkm": 70,
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "exm_smp_lit",
+      "title": "Asesmen Literasi — SMP Al Hidayah",
+      "packetId": "pkt_smp_lit",
+      "school": "SMP Al Hidayah",
+      "classes": [
+        "7A",
+        "8A"
+      ],
+      "date": "2026-11-01",
+      "startTime": "07:30",
+      "duration": 60,
+      "token": "SMPLIT",
+      "isActive": true,
+      "shuffle": false,
+      "kkm": 75,
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "exm_smp_num",
+      "title": "Asesmen Numerasi — SMP Al Hidayah",
+      "packetId": "pkt_smp_num",
+      "school": "SMP Al Hidayah",
+      "classes": [
+        "7A",
+        "8A"
+      ],
+      "date": "2026-11-01",
+      "startTime": "09:00",
+      "duration": 60,
+      "token": "SMPNUM",
+      "isActive": true,
+      "shuffle": false,
+      "kkm": 75,
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "exm_smp_pai",
+      "title": "Ulangan PAI — SMP Al Hidayah",
+      "packetId": "pkt_smp_pai",
+      "school": "SMP Al Hidayah",
+      "classes": [
+        "7A",
+        "8A"
+      ],
+      "date": "2026-11-01",
+      "startTime": "10:30",
+      "duration": 45,
+      "token": "SMPPAI",
+      "isActive": true,
+      "shuffle": false,
+      "kkm": 75,
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    },
+    {
+      "id": "exm_smp_bar",
+      "title": "Ulangan Bahasa Arab — SMP Al Hidayah",
+      "packetId": "pkt_smp_bar",
+      "school": "SMP Al Hidayah",
+      "classes": [
+        "7A",
+        "8A"
+      ],
+      "date": "2026-11-01",
+      "startTime": "12:30",
+      "duration": 45,
+      "token": "SMPBAR",
+      "isActive": true,
+      "shuffle": false,
+      "kkm": 75,
+      "createdAt": "2026-11-01T08:14:28.214Z"
+    }
+  ],
+  "results": [],
+  "settings": null,
+  "exportedAt": "2026-11-01T08:14:28.214Z"
+}

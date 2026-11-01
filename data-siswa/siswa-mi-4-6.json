@@ -1,0 +1,1977 @@
+{
+ "school": "MI Islamiyah",
+ "generatedAt": "2026-11-01T10:44:47",
+ "count": 197,
+ "students": [
+  {
+   "id": "std_20370863373c",
+   "nis": "240065",
+   "name": "ACHMAD FAZA ALMALIKI",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_0f28db753182",
+   "nis": "230066",
+   "name": "ACHMAD KHAAFID HABIBULLAH",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_09afe95b4d18",
+   "nis": "230034",
+   "name": "ADIBA SHAKILA MYISHA RUDYAMSYAH",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_c94bae061b1f",
+   "nis": "230036",
+   "name": "AFIQAH KHAIRIN PUTRI SOFIA",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_54f42b7725ff",
+   "nis": "230069",
+   "name": "AHMAD 'ASHIM ABINNAJUUD",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_09e36bdbffec",
+   "nis": "230070",
+   "name": "AISYAH ALESHA RACHMA",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_9ef8d0fb6de8",
+   "nis": "230039",
+   "name": "ALFIN NUR ZULFIKAR",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_7ff7f189bb07",
+   "nis": "230071",
+   "name": "ANINDITA RHEYNA ZAHRA",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_e5c7566c8f0e",
+   "nis": "230006",
+   "name": "AQILLA FARIZA RAHYUDI",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_2593fe469f74",
+   "nis": "230011",
+   "name": "AZIZ LABIB ALI WAFA",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_646cd9b73bce",
+   "nis": "230075",
+   "name": "ELVANO FARZANASAISI NARENDRA",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_64c81bfecdf7",
+   "nis": "230048",
+   "name": "FATIHA RIF`ATUSH SHOFIYYAH",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_1de3b6bec836",
+   "nis": "230049",
+   "name": "FAZA ARYASATYA SANTOSO",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_cd44bb9faed1",
+   "nis": "230051",
+   "name": "KAISYAH JIHAN FEKA KARIMAH ADZANI",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_2693e85b4883",
+   "nis": "230079",
+   "name": "KHALEYSIA KHAIRA SOESANTO",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_7c0b49431834",
+   "nis": "230020",
+   "name": "MUHAMMAD AZKA FEBRIAN",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_e00bda371ffc",
+   "nis": "230021",
+   "name": "MUHAMMAD FARREL AKBAR",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_c19705288da9",
+   "nis": "230085",
+   "name": "MUHAMMAD HILMAN ALIFUDIN",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_2233bbcb8cda",
+   "nis": "230023",
+   "name": "MUHAMMAD JAVIER ALBAR",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_4570ea15eb9a",
+   "nis": "230024",
+   "name": "MUHAMMAD RASYID FATHURRAHMAN",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_793deb9c00bb",
+   "nis": "230087",
+   "name": "NIZAR ARFA ALDEBARAN",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_e92aae061943",
+   "nis": "230060",
+   "name": "REVA AILEEN AZZAHRA",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_6ebe445c147f",
+   "nis": "230061",
+   "name": "REYNAN DAFFA ARKA PRATAMA",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_eba04cd286bb",
+   "nis": "230090",
+   "name": "SHAKILA QUEEN RAKHMAT",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_957f8141f002",
+   "nis": "230091",
+   "name": "SHAKIRA AQUEENA AZALEA OCTAVIANTO",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_ef596f92db48",
+   "nis": "230092",
+   "name": "SWI HIM HIM",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_0b17f21ef3f3",
+   "nis": "230093",
+   "name": "SYAHIR ALZAM EVANO ARDIANSYAH",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_7e7fde2f5a37",
+   "nis": "230095",
+   "name": "TSUROYYA ALONA ELSAYAFI",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_6ac579cf7b5f",
+   "nis": "230032",
+   "name": "ZAFRAN RIFFAT AKBAR PRASETYO",
+   "school": "MI Islamiyah",
+   "className": "4A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_f5c086f42842",
+   "nis": "230033",
+   "name": "ABDULLOH DZULQARNAIN INSAN KAMIL",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_bef79a3a436e",
+   "nis": "230064",
+   "name": "ABIMANYU JANARDANA MANENDRA",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_30f74932501a",
+   "nis": "230068",
+   "name": "AERILYN JESSE AZZARAH SAFITRI",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_5cb5ebb3f9af",
+   "nis": "230065",
+   "name": "AHMAD HUMAM HILMI",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_95fed1ee707f",
+   "nis": "230038",
+   "name": "AL AZHAR MALIK HAMZAH",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_c97897a13d46",
+   "nis": "240064",
+   "name": "ALEM ZEROUN AL-GHAZALI",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_3b9caac72fb7",
+   "nis": "230003",
+   "name": "ALFARIEL PUTRA KURNIAWAN",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_15f42f8c9e5a",
+   "nis": "230004",
+   "name": "ANIN DITA ZAHRA SAPUTRI",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_cbffe4801d4b",
+   "nis": "230041",
+   "name": "ANINDITA BILQIS SALSABILLAH",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_dfea0e00d1e2",
+   "nis": "230008",
+   "name": "ARYA DZAKI WIBOWO",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_86873ccc0bfa",
+   "nis": "230009",
+   "name": "ASSYIFA NAYRA SACHI ISKANDAR",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_633719a343d0",
+   "nis": "230010",
+   "name": "ATHALLAH FAIQ AKBAR",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_c62cd89c74ce",
+   "nis": "230043",
+   "name": "AZKAYRA SHAZFA ALFATHUNISSA",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_be01ec6124d4",
+   "nis": "230012",
+   "name": "BANDA MAULANA HALIM",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_3dc969844770",
+   "nis": "230044",
+   "name": "BILQIS KHALISTA MAHARANI",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_ec04177e752f",
+   "nis": "230045",
+   "name": "DAMAR ABIDZAR AL HAKEEM",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_0bdc4d406355",
+   "nis": "230046",
+   "name": "DANIAL ARSENIO",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_6ddf021b0377",
+   "nis": "230047",
+   "name": "DZAKIRA AYDA AZZAHRA",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_250b3963f6f8",
+   "nis": "230076",
+   "name": "FAHREZA MAULIDI AHMAD",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_117148d70423",
+   "nis": "230014",
+   "name": "FALISHA KIRANA PUTRI",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_dc65870ad7b9",
+   "nis": "230015",
+   "name": "FARA BILQIS ATHOILLAH",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_320564e802f1",
+   "nis": "230080",
+   "name": "MOCH FAIZ AL ARKHAN",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_c8245a478a20",
+   "nis": "230081",
+   "name": "MUHAMMAD AL-FATIH AZRIL IRAWAN",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_4fc13b62f172",
+   "nis": "230056",
+   "name": "MUHAMMAD MIRZAQ AL-FATIH",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_8fa31ebc97d2",
+   "nis": "230057",
+   "name": "MUHAMMAD ZIDAN WILDANSYAH",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_3c7b50a8f558",
+   "nis": "230027",
+   "name": "RAISA NAJWA IRFANDA",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_5dc602760d2a",
+   "nis": "230088",
+   "name": "ROBIAH ADAWIYYAH",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_bdcdbc32bc96",
+   "nis": "230089",
+   "name": "SALSABILA VEISYA RAMADHANI",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_cdf4a2408165",
+   "nis": "230030",
+   "name": "SYATHIR AL KAFI IBRAHIM",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_8fe0b7774798",
+   "nis": "230031",
+   "name": "YASAR AL HUSAIN SYAZANI KIANO",
+   "school": "MI Islamiyah",
+   "className": "4B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_7b934f012494",
+   "nis": "230067",
+   "name": "ADNAN BILAL WIJAYA",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_76a1eb68b55d",
+   "nis": "230037",
+   "name": "AFKAR RINGGO INDRASWARA",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_048f18d0db9e",
+   "nis": "250082",
+   "name": "ALFIAN ALFARIZI",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_7bd063dd2e54",
+   "nis": "230005",
+   "name": "AQILA ULUL AZMI",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_80f746b9bb43",
+   "nis": "230007",
+   "name": "ARSAKHA NAZRIEL ASSHIDDIQ",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_d35d2770782f",
+   "nis": "230072",
+   "name": "ARSYILA YUMNA RAFASYA",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_b43669f0c90a",
+   "nis": "230042",
+   "name": "ASYIFA NURUL SHAHIDAH",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_6ed79449d9cb",
+   "nis": "230073",
+   "name": "BRYAN ADAM AL-GHAZALI",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_6e11049c8314",
+   "nis": "230074",
+   "name": "DAVITO PUTRA RAMADHANI",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_e4deb8a7aa50",
+   "nis": "230013",
+   "name": "DEANDRA DWI PUTRA SETYAWAN",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_7f3d5814eee7",
+   "nis": "2300132",
+   "name": "HAFIZAH MAGHFIRAH RAMADHANIYAH",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_96122ad38227",
+   "nis": "230077",
+   "name": "JIHAN CHANDRA KAMILA",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_46e27911ae28",
+   "nis": "230078",
+   "name": "KEYSHA NAURA MAHESWARI",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_033547414627",
+   "nis": "230016",
+   "name": "KHALIDA ADEEVA LITUHAYU",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_2f40b9feebbc",
+   "nis": "230017",
+   "name": "KHANZA AYU ANINDYA",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_2f93293f370f",
+   "nis": "230053",
+   "name": "MARCHELLINO YULIWAN AKBAR",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_4f61790c3794",
+   "nis": "230054",
+   "name": "MOHAMMAD RAFA AZKA PUTRA",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_54cd80368096",
+   "nis": "230018",
+   "name": "MOZA AL ZAHRA JEFANA",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_36756802445c",
+   "nis": "230019",
+   "name": "MUHAMMAD AL FAHRI YUWONO",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_83500ddf6eb1",
+   "nis": "230082",
+   "name": "MUHAMMAD ALIF HAMDAN SAFI'I",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_4a87dfbd90c3",
+   "nis": "230083",
+   "name": "MUHAMMAD AZKA AZFAR AFFANDI",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_81e07e1a37fa",
+   "nis": "230022",
+   "name": "MUHAMMAD GIBRAN",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_d94d0d39205a",
+   "nis": "230055",
+   "name": "MUHAMMAD HAFIZ RAMADHAN SETYAWAN",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_af94e8169ee5",
+   "nis": "230025",
+   "name": "MUHAMMAD REYHAN SHAQIEL HAZIQ",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_5c436502454d",
+   "nis": "230086",
+   "name": "MUHAMMAD ZAFRAN SANJAYA",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_fd56774ea3a4",
+   "nis": "230058",
+   "name": "NATHAN EGA AL RASYID ZEIN",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_0799521baef3",
+   "nis": "230026",
+   "name": "NURUL IZZAH MAULIDIAH",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_4b592904623b",
+   "nis": "230029",
+   "name": "SYARIFAH NAZILAH",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_6e76b536c5b9",
+   "nis": "230063",
+   "name": "YAZDAN ABID AL HANNAN",
+   "school": "MI Islamiyah",
+   "className": "4C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_9d88bf33bd22",
+   "nis": "220044",
+   "name": "ADITTYA FIRMANSYAH PUTRA",
+   "school": "MI Islamiyah",
+   "className": "5A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_8b504f15291e",
+   "nis": "220045",
+   "name": "ADNAN GATAN ARKHANZA",
+   "school": "MI Islamiyah",
+   "className": "5A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_148588b887f9",
+   "nis": "220047",
+   "name": "AHMAD YARDAN NAUFAL CALIEF",
+   "school": "MI Islamiyah",
+   "className": "5A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_b9d5a10ac0c2",
+   "nis": "220005",
+   "name": "ARFAN BAHTIAR RASYAD",
+   "school": "MI Islamiyah",
+   "className": "5A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_949b5480ce5d",
+   "nis": "220024",
+   "name": "ARRALYN RAISA KHRISTIAWAN",
+   "school": "MI Islamiyah",
+   "className": "5A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_e0d80cd1232a",
+   "nis": "220006",
+   "name": "ATIQAH AMANI MAFRUHA",
+   "school": "MI Islamiyah",
+   "className": "5A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_af56cc399927",
+   "nis": "220008",
+   "name": "AZMI RANGGA INDRASWARA",
+   "school": "MI Islamiyah",
+   "className": "5A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_53ed5b07ed2d",
+   "nis": "220026",
+   "name": "BERYL SETIA ALFARO",
+   "school": "MI Islamiyah",
+   "className": "5A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_1c1ff9b6ef3f",
+   "nis": "220011",
+   "name": "HANIF AL ABID NABIL",
+   "school": "MI Islamiyah",
+   "className": "5A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_4c64e45f10db",
+   "nis": "220051",
+   "name": "KIRANA ADELIA ZAHRA",
+   "school": "MI Islamiyah",
+   "className": "5A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_b0d16ce554e8",
+   "nis": "230097",
+   "name": "MIKHAYLA LUTFIA ZAHRA",
+   "school": "MI Islamiyah",
+   "className": "5A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_93a1c9a770a8",
+   "nis": "220054",
+   "name": "MOCHAMMAD ASYRAF BAIHAQI AFFANDI",
+   "school": "MI Islamiyah",
+   "className": "5A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_ac14725fe95b",
+   "nis": "220031",
+   "name": "MOCHAMMAD FEBRI PUTRA HERLAMBANG",
+   "school": "MI Islamiyah",
+   "className": "5A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_95d317dc8925",
+   "nis": "220055",
+   "name": "MUCHAMMAD ADNAN SYAFI AMZARI",
+   "school": "MI Islamiyah",
+   "className": "5A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_ee63337cdd61",
+   "nis": "220015",
+   "name": "MUHAMMAD AKHSAN FIKRI",
+   "school": "MI Islamiyah",
+   "className": "5A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_5551269385a6",
+   "nis": "220034",
+   "name": "MUHAMMAD EL REYHAN ABRIZAM SATRIA",
+   "school": "MI Islamiyah",
+   "className": "5A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_aa08e6a1ddfe",
+   "nis": "220036",
+   "name": "MUHAMMAD GAVYN RAHMADANI",
+   "school": "MI Islamiyah",
+   "className": "5A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_c1455c999c60",
+   "nis": "220058",
+   "name": "NAURA AZ-ZAHRA PUTRI WIJAYA",
+   "school": "MI Islamiyah",
+   "className": "5A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_f56331a32e76",
+   "nis": "220060",
+   "name": "OTADAN AZIO ARDANA",
+   "school": "MI Islamiyah",
+   "className": "5A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_6b011e4ecc84",
+   "nis": "220022",
+   "name": "ZAHIDA ADZKIYA LUTHFIYAH",
+   "school": "MI Islamiyah",
+   "className": "5A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_58518045fa6c",
+   "nis": "220003",
+   "name": "ABDI SABDA WAHYU MUHAMMAD",
+   "school": "MI Islamiyah",
+   "className": "5B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_920c91fcd198",
+   "nis": "220048",
+   "name": "AHNAF JAVIER SAKHI",
+   "school": "MI Islamiyah",
+   "className": "5B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_44e9666f49c8",
+   "nis": "220049",
+   "name": "AINATUL SYAFIYAH RAMADHANI",
+   "school": "MI Islamiyah",
+   "className": "5B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_e24ab778acf0",
+   "nis": "220023",
+   "name": "AQILA GAVA PUTRI",
+   "school": "MI Islamiyah",
+   "className": "5B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_d9fc4d0aae89",
+   "nis": "220050",
+   "name": "ARINDY ZULIYA SAFITRI",
+   "school": "MI Islamiyah",
+   "className": "5B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_9b6c74282579",
+   "nis": "220025",
+   "name": "ARUNA BAGASKARA PUTRA IRAWAN",
+   "school": "MI Islamiyah",
+   "className": "5B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_4aeebd0be401",
+   "nis": "220027",
+   "name": "DAFFA ARYA GHOSSAN",
+   "school": "MI Islamiyah",
+   "className": "5B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_443d36ee6da7",
+   "nis": "220009",
+   "name": "DHIRGHAM HAIDAR ARHAB",
+   "school": "MI Islamiyah",
+   "className": "5B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_b405ed0392ad",
+   "nis": "220028",
+   "name": "FARADISA QAIREEN AZZAHRA",
+   "school": "MI Islamiyah",
+   "className": "5B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_b5aa3dc9ed53",
+   "nis": "220014",
+   "name": "LUKMAN ARIF SANJAYA",
+   "school": "MI Islamiyah",
+   "className": "5B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_c5b38bbbcd40",
+   "nis": "220030",
+   "name": "MOCH ALWAN FIQRI ARAFI",
+   "school": "MI Islamiyah",
+   "className": "5B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_0febfe2c3efb",
+   "nis": "220064",
+   "name": "MOH. SAHRULLAH",
+   "school": "MI Islamiyah",
+   "className": "5B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_cb0ae5e0b00a",
+   "nis": "220065",
+   "name": "MUCHAMAD NAFI' KHISBULLOH",
+   "school": "MI Islamiyah",
+   "className": "5B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_3adf45e07f8f",
+   "nis": "220033",
+   "name": "MUHAMMAD AMIRUDIN SYIHAB",
+   "school": "MI Islamiyah",
+   "className": "5B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_8a49b6ba9a90",
+   "nis": "220017",
+   "name": "MUHAMMAD FADIL PRANATA",
+   "school": "MI Islamiyah",
+   "className": "5B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_40f52d5945b1",
+   "nis": "220056",
+   "name": "MUHAMMAD KAESANG DZIKRI SUHERI",
+   "school": "MI Islamiyah",
+   "className": "5B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_5e59db9c967a",
+   "nis": "220038",
+   "name": "MUHAMMAD KANZUN FAQIH AL HADI",
+   "school": "MI Islamiyah",
+   "className": "5B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_2b88f656b36b",
+   "nis": "220057",
+   "name": "MUHAMMAD NUFAIL HISYAM ARRIDHO",
+   "school": "MI Islamiyah",
+   "className": "5B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_2b4702f48ff6",
+   "nis": "220039",
+   "name": "NAYLA ADILLA ARDHANI",
+   "school": "MI Islamiyah",
+   "className": "5B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_b55cb784c477",
+   "nis": "220061",
+   "name": "RAFLI FARIS MAULANA",
+   "school": "MI Islamiyah",
+   "className": "5B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_0984343a3711",
+   "nis": "220043",
+   "name": "TSAABITA PUTRI NABAWI",
+   "school": "MI Islamiyah",
+   "className": "5B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_b2259bbf50b0",
+   "nis": "220004",
+   "name": "AHMAD GIBRAN MAULANA RAYANUAR",
+   "school": "MI Islamiyah",
+   "className": "5C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_c22572cee326",
+   "nis": "220002",
+   "name": "AZALEA KHALIQA DZAHIN VANDRIA",
+   "school": "MI Islamiyah",
+   "className": "5C",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_075796492c7d",
+   "nis": "220010",
+   "name": "FAKHRIZI BINTANG PRASETYA",
+   "school": "MI Islamiyah",
+   "className": "5C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_a9e943029c89",
+   "nis": "220029",
+   "name": "FATTAN ABDURRAHMAN FAIZ",
+   "school": "MI Islamiyah",
+   "className": "5C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_1b5b0ddfb13c",
+   "nis": "220012",
+   "name": "INAYAH KAMILATUT DIANA",
+   "school": "MI Islamiyah",
+   "className": "5C",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_4f0d80ccd47a",
+   "nis": "220013",
+   "name": "KENZO RADITYA PRASETYO",
+   "school": "MI Islamiyah",
+   "className": "5C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_45160679bdf9",
+   "nis": "220052",
+   "name": "LATHIFA WIHDA MAULIDA",
+   "school": "MI Islamiyah",
+   "className": "5C",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_39c7ab0f48a6",
+   "nis": "220053",
+   "name": "MAHARDIKA ADIPRAMANA SETIAWAN",
+   "school": "MI Islamiyah",
+   "className": "5C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_f15c1f4c7c93",
+   "nis": "220016",
+   "name": "MUHAMMAD AKMAL FARHAN ALFATIH",
+   "school": "MI Islamiyah",
+   "className": "5C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_f70043437fe5",
+   "nis": "220032",
+   "name": "MUHAMMAD AKMAL SYA'BANI",
+   "school": "MI Islamiyah",
+   "className": "5C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_941656023b8b",
+   "nis": "220035",
+   "name": "MUHAMMAD FATHIR RAMADHAN",
+   "school": "MI Islamiyah",
+   "className": "5C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_de50da0abe48",
+   "nis": "220037",
+   "name": "MUHAMMAD GHOLIBUL ADHAR",
+   "school": "MI Islamiyah",
+   "className": "5C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_a2aa2cf4d568",
+   "nis": "220018",
+   "name": "MUHAMMAD HAFIDZ AL FATIH",
+   "school": "MI Islamiyah",
+   "className": "5C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_533ef26413b4",
+   "nis": "220019",
+   "name": "MUHAMMAD ILHAM RAFIF",
+   "school": "MI Islamiyah",
+   "className": "5C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_7a3a5d7e7416",
+   "nis": "220059",
+   "name": "NAYAKA AVALORA DAMAYANTI NOERSASMITHA",
+   "school": "MI Islamiyah",
+   "className": "5C",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_1ba9c1e16202",
+   "nis": "220040",
+   "name": "RAFIF HASBY MAULANA",
+   "school": "MI Islamiyah",
+   "className": "5C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_a8f53c69d67e",
+   "nis": "220041",
+   "name": "RAKHA MAS'UDI",
+   "school": "MI Islamiyah",
+   "className": "5C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_e62787d59ede",
+   "nis": "220020",
+   "name": "RIANI MUTIA AZZAHRA",
+   "school": "MI Islamiyah",
+   "className": "5C",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_67be82fb65f7",
+   "nis": "220062",
+   "name": "SALMAN ALFARISI",
+   "school": "MI Islamiyah",
+   "className": "5C",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_e6cad25698cf",
+   "nis": "220021",
+   "name": "SYARIFATUS SA`DIYAH",
+   "school": "MI Islamiyah",
+   "className": "5C",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_d0620be74a97",
+   "nis": "210058",
+   "name": "ACHMAD AKBAR HAMIDI",
+   "school": "MI Islamiyah",
+   "className": "6A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_cbc002ba441e",
+   "nis": "210028",
+   "name": "ADHYASTA HAIDAR FADLAN PRASAJA",
+   "school": "MI Islamiyah",
+   "className": "6A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_37470e7bdcba",
+   "nis": "210005",
+   "name": "AFWAN MAULANA AZIDAN",
+   "school": "MI Islamiyah",
+   "className": "6A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_6eddecc1837c",
+   "nis": "210031",
+   "name": "AKEILA RAMADHANI PRASETYO",
+   "school": "MI Islamiyah",
+   "className": "6A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_c1e281a924bc",
+   "nis": "210007",
+   "name": "ALANA NAMEERA YAHYA",
+   "school": "MI Islamiyah",
+   "className": "6A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_4fe897afc7ed",
+   "nis": "210010",
+   "name": "AMELIA SHOLIHATI SA'ADAH",
+   "school": "MI Islamiyah",
+   "className": "6A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_2a1d3e66ac12",
+   "nis": "210011",
+   "name": "AQILA ADZKIA MAULIDA SUDARSONO",
+   "school": "MI Islamiyah",
+   "className": "6A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_d6c5d800214f",
+   "nis": "210012",
+   "name": "ARABELLA WILA AMATULLAH",
+   "school": "MI Islamiyah",
+   "className": "6A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_9fcfdef7bb9d",
+   "nis": "210033",
+   "name": "ATHAR VIRENDRA WIRATAMA",
+   "school": "MI Islamiyah",
+   "className": "6A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_5c5e62ef85ae",
+   "nis": "210013",
+   "name": "ATHAYA IQLIMA ASFA",
+   "school": "MI Islamiyah",
+   "className": "6A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_a1be9138d48e",
+   "nis": "210014",
+   "name": "DZIKRA ZAYN HABIBIE",
+   "school": "MI Islamiyah",
+   "className": "6A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_f9471116982a",
+   "nis": "210039",
+   "name": "FEIYU YUWA ASWANGGA",
+   "school": "MI Islamiyah",
+   "className": "6A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_9cdbbe1ecbb0",
+   "nis": "230098",
+   "name": "GHASSANI KYRA AASHIQUI",
+   "school": "MI Islamiyah",
+   "className": "6A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_2911d0b80a1b",
+   "nis": "220071",
+   "name": "IBRAHIM MUSTAFA AHMAD ALTAF",
+   "school": "MI Islamiyah",
+   "className": "6A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_2a62eebd644e",
+   "nis": "210016",
+   "name": "KENZIE ADELARD GERALDINE AL AZFAR",
+   "school": "MI Islamiyah",
+   "className": "6A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_b36aaa6fd8aa",
+   "nis": "210017",
+   "name": "KRISHNA REVAND ANGGARA",
+   "school": "MI Islamiyah",
+   "className": "6A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_11d94a39bd7c",
+   "nis": "210018",
+   "name": "M. IBNU ALI AL ASYRAFI",
+   "school": "MI Islamiyah",
+   "className": "6A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_c4713aa8ece9",
+   "nis": "210059",
+   "name": "MARCHVELLINO JUSTINE PUTRA WENSESLAUS JELAHU",
+   "school": "MI Islamiyah",
+   "className": "6A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_db6181efa822",
+   "nis": "210019",
+   "name": "MICHA SALWA NUR LUTHFIYAH ASY SYAUQI AULIA' AL GHIFARI",
+   "school": "MI Islamiyah",
+   "className": "6A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_43d22bdca78f",
+   "nis": "210044",
+   "name": "MUHAMMAD FARHAN IBAD",
+   "school": "MI Islamiyah",
+   "className": "6A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_0dec36d35b32",
+   "nis": "210046",
+   "name": "MUHAMMAD HARITS ANNA SAA'I",
+   "school": "MI Islamiyah",
+   "className": "6A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_aa2652c6d39e",
+   "nis": "210050",
+   "name": "NASHWA ALMIRA HUMAIRA",
+   "school": "MI Islamiyah",
+   "className": "6A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_6e6464e898d8",
+   "nis": "210051",
+   "name": "RAMADHAN FERNANDO IBRAHIM",
+   "school": "MI Islamiyah",
+   "className": "6A",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_98304826ef98",
+   "nis": "210052",
+   "name": "SHELINA RAMADHANI",
+   "school": "MI Islamiyah",
+   "className": "6A",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_93da827cf3ca",
+   "nis": "210002",
+   "name": "ABHINAYA YASA WAHYU FIRDHAUS",
+   "school": "MI Islamiyah",
+   "className": "6B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_1d23537edb88",
+   "nis": "210003",
+   "name": "AFIFA NAHDA RAFANDA",
+   "school": "MI Islamiyah",
+   "className": "6B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_1efeb3af9eeb",
+   "nis": "210029",
+   "name": "AFIFAH ULIN NUHA",
+   "school": "MI Islamiyah",
+   "className": "6B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_a6549502264b",
+   "nis": "210004",
+   "name": "AFNAN ATMA ADRI PURNAMA",
+   "school": "MI Islamiyah",
+   "className": "6B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_832a0f101f17",
+   "nis": "210030",
+   "name": "AIDA AQILA HAMIDI",
+   "school": "MI Islamiyah",
+   "className": "6B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_188a02edbd55",
+   "nis": "210006",
+   "name": "AIRLANGGA CHANDRA SAKTI",
+   "school": "MI Islamiyah",
+   "className": "6B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_b667fdf00b76",
+   "nis": "210032",
+   "name": "AL GIBRAN CAHYA UTAMA",
+   "school": "MI Islamiyah",
+   "className": "6B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_bba7c0829490",
+   "nis": "210034",
+   "name": "AZALEA KHALIQA AZKANAH",
+   "school": "MI Islamiyah",
+   "className": "6B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_a3bebeb0630d",
+   "nis": "210035",
+   "name": "AZZA SYAKIRA HASNA",
+   "school": "MI Islamiyah",
+   "className": "6B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_ba387255ff1b",
+   "nis": "210036",
+   "name": "DINIAH MUCHSINATUL UMMAH",
+   "school": "MI Islamiyah",
+   "className": "6B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_a5329fdcfbef",
+   "nis": "210037",
+   "name": "EVAN ANDRA ZAIDAN",
+   "school": "MI Islamiyah",
+   "className": "6B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_b64c08677027",
+   "nis": "210038",
+   "name": "FAIHA NADA ZALFA",
+   "school": "MI Islamiyah",
+   "className": "6B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_52233508ed62",
+   "nis": "210042",
+   "name": "HAIKAL OMAR AL-KAUTSAR",
+   "school": "MI Islamiyah",
+   "className": "6B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_808cb44e6d57",
+   "nis": "210015",
+   "name": "HAMDAN HUSEIN MUSTHOFA",
+   "school": "MI Islamiyah",
+   "className": "6B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_679a4935452d",
+   "nis": "210043",
+   "name": "KHANZA KAIRO SOESANTO",
+   "school": "MI Islamiyah",
+   "className": "6B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_52b169b1df73",
+   "nis": "210048",
+   "name": "MUHAMAD SOFI ALHAFIDZ",
+   "school": "MI Islamiyah",
+   "className": "6B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_6c96a46fbff9",
+   "nis": "240062",
+   "name": "MUHAMMAD DIRGANTARA",
+   "school": "MI Islamiyah",
+   "className": "6B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_dcdf2b529e0d",
+   "nis": "210022",
+   "name": "MUHAMMAD FAZZRIL ADITIYAH",
+   "school": "MI Islamiyah",
+   "className": "6B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_cd9ab375b506",
+   "nis": "210045",
+   "name": "MUHAMMAD GILANG FIRMANSYAH",
+   "school": "MI Islamiyah",
+   "className": "6B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_3f72f496a3b7",
+   "nis": "210024",
+   "name": "MUHAMMAD MURTADHO ASKHA",
+   "school": "MI Islamiyah",
+   "className": "6B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_cb190cc1b324",
+   "nis": "210020",
+   "name": "MUHAMMAD SAID AL GHOZALI",
+   "school": "MI Islamiyah",
+   "className": "6B",
+   "gender": "L",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_2710d6cfa276",
+   "nis": "210049",
+   "name": "NAFEESHA AZZURRA PUTRI ARIANTO",
+   "school": "MI Islamiyah",
+   "className": "6B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_2a6e4412da78",
+   "nis": "210026",
+   "name": "NAZWA RIZKA NUR RAMADHANI",
+   "school": "MI Islamiyah",
+   "className": "6B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  },
+  {
+   "id": "std_37a6895b50d0",
+   "nis": "210027",
+   "name": "NURIL 'ILMIYATUL KARIMAH",
+   "school": "MI Islamiyah",
+   "className": "6B",
+   "gender": "P",
+   "password": "12345",
+   "createdAt": "2026-11-01T10:44:47"
+  }
+ ]
+}
